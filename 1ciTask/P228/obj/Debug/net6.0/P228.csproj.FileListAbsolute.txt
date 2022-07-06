@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\P228\P228\obj\Debug\net6.0\P228.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\P228\P228\obj\Debug\net6.0\P228.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\P228\P228\obj\Debug\net6.0\P228.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\P228\P228\obj\Debug\net6.0\P228.AssemblyInfo.cs
+C:\Users\ACER\source\repos\P228\P228\obj\Debug\net6.0\P228.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\P228\P228\bin\Debug\net6.0\P228.exe
+C:\Users\ACER\source\repos\P228\P228\bin\Debug\net6.0\P228.deps.json
+C:\Users\ACER\source\repos\P228\P228\bin\Debug\net6.0\P228.runtimeconfig.json
+C:\Users\ACER\source\repos\P228\P228\bin\Debug\net6.0\P228.dll
+C:\Users\ACER\source\repos\P228\P228\bin\Debug\net6.0\P228.pdb
+C:\Users\ACER\source\repos\P228\P228\obj\Debug\net6.0\P228.dll
+C:\Users\ACER\source\repos\P228\P228\obj\Debug\net6.0\refint\P228.dll
+C:\Users\ACER\source\repos\P228\P228\obj\Debug\net6.0\P228.pdb
+C:\Users\ACER\source\repos\P228\P228\obj\Debug\net6.0\P228.genruntimeconfig.cache
+C:\Users\ACER\source\repos\P228\P228\obj\Debug\net6.0\ref\P228.dll
